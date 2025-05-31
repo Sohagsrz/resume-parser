@@ -1,6 +1,6 @@
 # 🚀 Resume Parser
 
-[![Packagist](https://img.shields.io/packagist/v/sohagsrz/resume-parser?color=blue)](https://packagist.org/packages/sohagsrz/resume-parser)
+[![Packagist](https://img.shields.io/packagist/v/sohagsrz/resume-parser?color=red)](https://packagist.org/packages/sohagsrz/resume-parser)
 [![License](https://img.shields.io/github/license/sohagsrz/resume-parser?color=green)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/sohagsrz/resume-parser?style=social)](https://github.com/sohagsrz/resume-parser/stargazers)
 
